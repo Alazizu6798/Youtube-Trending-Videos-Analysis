@@ -5,6 +5,7 @@ YouTube is the most popular and most used video platfrom in the world today. You
 
 The dataset that we will use is obtained from Kaggle. It contains data about trending videos for many countries. Here we will analyze trending videos for US.
  - Dataset Used - <a href="https://drive.google.com/file/d/1qugMIRiaDPny8yKJu3Q3DQMjYVAypBAL/view?usp=drive_link">USvideos</a>
+                - <a href="https://github.com/Alazizu6798/Youtube-Trending-Videos-Analysis/blob/main/Category_name.xlsx">Category Names</a>
 
 # Goals of the Analysis
 
