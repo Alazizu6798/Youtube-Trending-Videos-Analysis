@@ -1,7 +1,7 @@
 # Youtube-Trending-Videos-Analysis
 
 # Introduction
-YouTube is the most popular and most used video platfrom in the world today. YouTube has a list of trending videos that is updated constantly. Here we will use Python with some packages like Pandas and Matplotlib to analyze a dataset that was collected over 205 days. For each of those days, the dataset contains data about the trending videos of that day. It contains data about more than 37,000 trending videos. We will analyze this data to get insights into YouTube trending videos, to see what is common between these videos. Those insights might also be used by people who want to increase popularity of their videos on YouTube.
+YouTube is the most popular and most used video platfrom in the world today. YouTube has a list of trending videos that is updated constantly. Here we will use Power BI and Ms Excel to analyze a dataset that was collected over 205 days. For each of those days, the dataset contains data about the trending videos of that day. It contains data about more than 37,000 trending videos. We will analyze this data to get insights into YouTube trending videos, to see what is common between these videos. Those insights might also be used by people who want to increase popularity of their videos on YouTube.
 
 The dataset which is used is obtained from Kaggle. It contains data about trending videos for many countries. Here we will do the Analysis of trending videos for US.
  - Dataset Used - <a href="https://drive.google.com/file/d/1qugMIRiaDPny8yKJu3Q3DQMjYVAypBAL/view?usp=drive_link">USvideos</a>
