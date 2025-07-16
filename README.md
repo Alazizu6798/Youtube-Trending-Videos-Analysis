@@ -19,4 +19,4 @@ The dataset which is used is obtained from Kaggle. It contains data about trendi
 - What are the most common words in trending video titles?
 - Which YouTube channels have the largest number of trending videos?
 - Which video category (e.g. Entertainment, Gaming, Comedy, etc.) has the largest number of trending videos?
-- When were trending videos published? On which days of the week? at which times of the day?
+
