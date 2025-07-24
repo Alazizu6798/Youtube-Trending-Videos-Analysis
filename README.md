@@ -16,7 +16,6 @@ The dataset which is used is obtained from Kaggle. It contains data about trendi
 - How many trending videos contain a fully-capitalized word in their titles?
 - What are the lengths of trending video titles? Is this length related to the video becoming trendy?
 - How are views, likes, dislikes, comment count, title length, and other attributes correlate with (relate to) each other? How are they connected?
-- What are the most common words in trending video titles?
 - Which YouTube channel have the largest number of trending videos?
 - Which video category (e.g. Entertainment, Gaming, Comedy, etc.) has the largest number of trending videos?
 
