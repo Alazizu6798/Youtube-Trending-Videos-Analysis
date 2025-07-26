@@ -11,7 +11,6 @@ The dataset which is used is obtained from Kaggle. It contains data about trendi
 
 # We want to answer questions like:
 - How many views do our trending videos have? Do most of them have a large number of views? Is having a large number of views required for a video to become trending?
-- The same questions above, but applied to likes and comment count instead of views.
 - Which video remained the most on the trendin-videos list?
 - What are the lengths of trending video titles? Is this length related to the video becoming trendy?
 - How are views, likes, dislikes, comment count, title length, and other attributes correlate with (relate to) each other? How are they connected?
