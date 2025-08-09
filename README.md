@@ -16,4 +16,4 @@ The dataset which is used is obtained from Kaggle. It contains data about trendi
 - How are views, likes, dislikes, comment count, title length, and other attributes correlate with each other? How are they connected?
 - Which YouTube channel have the largest number of trending videos?
 - Which video category has the largest number of trending videos?
-- Dashboard Interaction - 
+
