@@ -19,6 +19,19 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Upload Date & Time
 - Video Category
 
+# 📌 Key Features of the Dashboard
+# 1. Filters & Slicers
+Month Selector – Choose the month for analysis
+Category Selector – Filter by video category
+Date Picker – Select specific upload dates
+
+# 2. KPIs (Cards)
+Total Views – 12B
+Total Likes – 402M
+Total Dislikes – 14M
+Total Comments – 46M
+Engagement Rate – 4.0%
+
 # Goals of the Analysis
 
 # We want to answer questions like:
