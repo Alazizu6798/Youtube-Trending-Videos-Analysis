@@ -19,10 +19,6 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Upload Date & Time
 - Video Category
 
-
- - Dataset Used - <a href="https://drive.google.com/file/d/1qugMIRiaDPny8yKJu3Q3DQMjYVAypBAL/view?usp=drive_link">USvideos</a>
-                - <a href="https://github.com/Alazizu6798/Youtube-Trending-Videos-Analysis/blob/main/Category_name.xlsx">Category Names</a>
-
 # Goals of the Analysis
 
 # We want to answer questions like:
