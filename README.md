@@ -30,6 +30,18 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Total Comments : 46M
 - Engagement Rate : 4.0%
 
+# 3. Visuals Used
+📊 Bar Charts
+- Top 10 Trending Videos by Views : Ranked with gradient formatting
+- Top 10 Channels by Views : Channel-wise performance ranking
+- Average Likes & Dislikes by Category : Comparison by category
+
+🍩 Donut Chart
+- Weekday vs Weekend Views : Proportion of views by day type
+
+🔥 Heatmap
+- Views by Hour & Day : Highlights peak viewing times
+
 # Goals of the Analysis
 
 # We want to answer questions like:
