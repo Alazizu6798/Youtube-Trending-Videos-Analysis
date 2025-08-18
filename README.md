@@ -9,15 +9,13 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Source:- <a href="https://drive.google.com/file/d/1qugMIRiaDPny8yKJu3Q3DQMjYVAypBAL/view?usp=drive_link"> U.S. YouTube Trending Videos Dataset</a>
          - <a href="https://github.com/Alazizu6798/Youtube-Trending-Videos-Analysis/blob/main/Category_name.xlsx">Category Names</a>
 - Time Period: March 2018
-
-# Key Fields:
-
-- Video Title
-- Channel Name
-- Views, Likes, Dislikes, Comments
-- Engagement Rate
-- Upload Date & Time
-- Video Category
+- Key Fields :
+  - Video Title
+  - Channel Name
+  - Views, Likes, Dislikes, Comments
+  - Engagement Rate
+  - Upload Date & Time
+  - Video Category
 
 # 📌 Key Features of the Dashboard
 # 1. Filters & Slicers
