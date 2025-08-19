@@ -56,13 +56,7 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Engagement rate varies significantly between top categories.
 - Top-performing channels contribute a large share of overall views.
 
-# Goals of the Analysis
+# 🖥 Dashboard Preview
 
-# We want to answer questions like:
-- How many views do trending videos have? Do most of them have a large number of views? Is having a large number of views required for a video to become trending?
-- Which video remained the most on the trendin-videos list?
-- What are the lengths of trending video titles? Is this length related to the video becoming trendy?
-- How are views, likes, dislikes, comment count, title length, and other attributes correlate with each other? How are they connected?
-- Which YouTube channel have the largest number of trending videos?
-- Which video category has the largest number of trending videos?
+
 
