@@ -38,9 +38,23 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 
 🍩 Donut Chart
 - Weekday vs Weekend Views : Proportion of views by day type
-
 🔥 Heatmap
 - Views by Hour & Day : Highlights peak viewing times
+
+# ⚙ DAX Measures Used
+- Total Views = SUM(Views)  
+- Total Likes = SUM(Likes)  
+- Total Dislikes = SUM(Dislikes)  
+- Total Comments = SUM(Comments)  
+- Engagement Rate = ((SUM(Likes) + SUM(Comments)) / SUM(Views)) * 100  
+- Weekend/Weekday Views calculated using WEEKDAY() classification.
+
+# 🎯 Insights
+
+- Most views occur during weekdays, especially during late afternoon hours.
+- Certain categories dominate in likes but not in dislikes.
+- Engagement rate varies significantly between top categories.
+- Top-performing channels contribute a large share of overall views.
 
 # Goals of the Analysis
 
