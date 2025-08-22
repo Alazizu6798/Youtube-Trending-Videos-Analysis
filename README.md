@@ -55,7 +55,7 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Certain categories dominate in likes but not in dislikes.
 - Engagement rate varies significantly between top categories.
 - Top-performing channels contribute a large share of overall views.
-# 🖥 Dashboard Preview
+
 # 🏆 Skills Demonstrated
 
 - Power BI Dashboard Design
