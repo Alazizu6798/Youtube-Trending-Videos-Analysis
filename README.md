@@ -31,6 +31,7 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Engagement Rate : 4.0%
 
 # 3. Visuals Used
+
 📊 Bar Charts
 - Top 10 Trending Videos by Views : Ranked with gradient formatting
 - Top 10 Channels by Views : Channel-wise performance ranking
