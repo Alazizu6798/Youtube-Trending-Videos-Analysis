@@ -58,7 +58,6 @@ This project analyzes U.S. YouTube Trending Videos for March 2018 using Power BI
 - Top-performing channels contribute a large share of overall views.
 
 # 🏆 Skills Demonstrated
-
 - Power BI Dashboard Design
 - Data Cleaning & Transformation
 - DAX Calculations
